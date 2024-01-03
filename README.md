@@ -31,3 +31,4 @@
   ![codewars](https://www.codewars.com/users/raves123/badges/large)
 
   ---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravesjs)
