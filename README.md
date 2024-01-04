@@ -1,14 +1,11 @@
-# Hello
-Я начинающий frontend-разработчик
+  ---
 
----
-- :zap: Завершил курсы по rwd от freeCodeCamp, broCode
-  
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-raves8-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/raves8)
-  
----
+  ### Codewars
+  ![codewars](https://www.codewars.com/users/raves123/badges/large)
 
-### 💻 Технологии:
+  ---
+
+### Tech
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -24,11 +21,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp
   </div>
+  
+  ---
+  
+  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-raves8-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/raves8)
+
+  ---
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravesjs&theme=tokyonight)
 
   ---
 
-  ### 💻 Codewars:
-  ![codewars](https://www.codewars.com/users/raves123/badges/large)
-
-  ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravesjs)
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravesjs)
