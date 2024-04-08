@@ -29,6 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_prettier.svg" title="prettier" alt="prettier" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
