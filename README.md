@@ -14,12 +14,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
+    <img src="https://github.com/effector/effector/blob/master/documentation/public/favicon.svg" title="effector" alt="effector" width="40" height="40"/>&nbsp 
     <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="react-router" alt="router" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="axios" alt="axios" width="40" height="40"/>&nbsp
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_scss2.svg" title="scss" alt="scss" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="mui" width="40" height="40"/>&nbsp
   </div>
-
+  
   ---
 
   ### Tools
