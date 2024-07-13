@@ -16,9 +16,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
     <img src="https://github.com/effector/effector/blob/master/documentation/public/favicon.svg" title="effector" alt="effector" width="40" height="40"/>&nbsp 
     <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="react-router" alt="router" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="axios" alt="axios" width="40" height="40"/>&nbsp
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_scss2.svg" title="scss" alt="scss" width="40" height="40"/>&nbsp
-    <img src="https://camo.githubusercontent.com/70ec62b59182d7ecbc34f6cfe6f043d6ca17b133c398871ef1cdab0fa4d1e424/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" title="antd" alt="antd" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="antd" alt="antd" width="40" height="40"/>&nbsp
   </div>
   
   ---
