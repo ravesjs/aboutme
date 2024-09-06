@@ -10,6 +10,7 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp
+    <img src="https://github.com/angular/angular/raw/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" title="angular" alt="angular" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
     <img src="https://github.com/effector/effector/blob/master/documentation/public/favicon.svg" title="effector" alt="effector" width="40" height="40"/>&nbsp 
